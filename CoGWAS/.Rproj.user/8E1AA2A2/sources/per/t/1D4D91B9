@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553358831111.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1727769091",
+    "id" : "1D4D91B9",
+    "lastKnownWriteTime" : 1550514324,
+    "last_content_update" : 1550514324,
+    "path" : "~/Documents/UBC/2018-2019/CoevolutionWorkshop/CoGWAS/GWAS.R",
+    "project_path" : "GWAS.R",
+    "properties" : {
+        "cursorPosition" : "29,0",
+        "scrollLine" : "7",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
