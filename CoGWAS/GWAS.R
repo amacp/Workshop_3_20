@@ -17,7 +17,7 @@ hostOnlyFit=lm(Susceptbility~host_locus_1+host_locus_2+host_locus_1:host_locus_2
 summary(hostOnlyFit)$coefficients
 #Varience explained
 summary(hostOnlyFit)$r.squared
-#Add your results to the first sheet of this google form
+#Add your results to the first tab of this google sheet
 # https://docs.google.com/spreadsheets/d/1Sd_pINdUjW5j5MHeCS2HuXldwO51eEzgMp73Y_EfOm0/edit?usp=sharing
 
 ##CoGWAS
@@ -28,5 +28,5 @@ hostPathFit=lm(Susceptbility~host_locus_1+host_locus_2+host_locus_1:host_locus_2
 summary(hostPathFit)$coefficients #Note not all terms may appear due to extensive LD between loci
 #Varience explained
 summary(hostPathFit)$r.squared
-#Add your results to the first sheet of this google form
+#Add your results to the second tab of this google sheet
 # https://docs.google.com/spreadsheets/d/1Sd_pINdUjW5j5MHeCS2HuXldwO51eEzgMp73Y_EfOm0/edit?usp=sharing
